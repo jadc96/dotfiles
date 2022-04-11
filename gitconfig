@@ -53,5 +53,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api ja.decugnac@outlook.com
+	email = ja.decugnac@outlook.com
 	name = Jacques Antoine de Cugnac
