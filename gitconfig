@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ja.decugnac@outlook.com
+	name = Jacques-Antoine de Cugnac
